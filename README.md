@@ -12,8 +12,10 @@ Chat refers to the process of communicating, interacting and/or exchanging messa
 
 Chat is also known as chatting, online chat or Internet chat.
 
-Advertisement
-*******************************************************************************************************************On the Internet, chatting is talking to other people who are using the Internet at the same time you are. Usually, this "talking" is the exchange of typed-in messages requiring one site as the repository for the messages (or "chat site") and a group of users who take part from anywhere on the Internet. In some cases, a private chat can be arranged between two parties who meet initially in a group chat. Chats can be ongoing or scheduled for a particular time and duration. Most chats are focused on a particular topic of interest and some involve guest experts or famous people who "talk" to anyone joining the chat. (Transcripts of a chat can be archived for later reference.)
+
+
+*******************************************************************************************************************
+On the Internet, chatting is talking to other people who are using the Internet at the same time you are. Usually, this "talking" is the exchange of typed-in messages requiring one site as the repository for the messages (or "chat site") and a group of users who take part from anywhere on the Internet. In some cases, a private chat can be arranged between two parties who meet initially in a group chat. Chats can be ongoing or scheduled for a particular time and duration. Most chats are focused on a particular topic of interest and some involve guest experts or famous people who "talk" to anyone joining the chat. (Transcripts of a chat can be archived for later reference.)
 
 Chats are conducted on online services (especially America Online), by bulletin board services, and by Web sites. Several Web sites, notably Talk City, exist solely for the purpose of conducting chats. Some chat sites such as Worlds Chat allow participants to assume the role or appearance of an avatar in a simulated or virtual reality environment.
 
