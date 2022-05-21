@@ -13,7 +13,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.js"></script>
 	</head>
-	<!--Coded With Love By Mutiullah Samim-->
+	<!--Coded With Love By Biplov Paneru-->
 	<body>
 		<div class="container-fluid h-100">
 			<div class="row justify-content-center h-100">
@@ -35,20 +35,20 @@
 									<span class="online_icon"></span>
 								</div>
 								<div class="user_info">
-									<span>Khalid</span>
-									<p>Kalid is online</p>
+									<span>Namu</span>
+									<p>Namu is online</p>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="d-flex bd-highlight">
 								<div class="img_cont">
-									<img src="https://2.bp.blogspot.com/-8ytYF7cfPkQ/WkPe1-rtrcI/AAAAAAAAGqU/FGfTDVgkcIwmOTtjLka51vineFBExJuSACLcBGAs/s320/31.jpg" class="rounded-circle user_img">
+									<img src="https://pickaface.net/gallery/avatar/unr_handsomemale_180407_1558_2pduwzt.png" class="rounded-circle user_img">
 									<span class="online_icon offline"></span>
 								</div>
 								<div class="user_info">
-									<span>Taherah Big</span>
-									<p>Taherah left 7 mins ago</p>
+									<span>Rohit</span>
+									<p>Rohit left 7 mins ago</p>
 								</div>
 							</div>
 						</li>
@@ -59,10 +59,11 @@
 									<span class="online_icon"></span>
 								</div>
 								<div class="user_info">
-									<span>Sami Rafi</span>
-									<p>Sami is online</p>
+									<span>sanyukta shrestha</span>
+									<p>sanyukta is online</p>
 								</div>
 							</div>
+						
 						</li>
 						<li>
 							<div class="d-flex bd-highlight">
@@ -71,8 +72,9 @@
 									<span class="online_icon offline"></span>
 								</div>
 								<div class="user_info">
-									<span>Nargis Hawa</span>
-									<p>Nargis left 30 mins ago</p>
+									<span>bishal gupta</span>
+									<p>
+									gupta left 30 mins ago</p>
 								</div>
 							</div>
 						</li>
@@ -83,8 +85,8 @@
 									<span class="online_icon offline"></span>
 								</div>
 								<div class="user_info">
-									<span>Rashid Samim</span>
-									<p>Rashid left 50 mins ago</p>
+									<span>Deepak</span>
+									<p>Deepak left 50 mins ago</p>
 								</div>
 							</div>
 						</li>
@@ -125,7 +127,7 @@
 									<img src="https://static.turbosquid.com/Preview/001292/481/WV/_D.jpg" class="rounded-circle user_img_msg">
 								</div>
 								<div class="msg_cotainer">
-									Hi, how are you samim?
+									Hi, how are you Biplov Paneru?
 									<span class="msg_time">8:40 AM, Today</span>
 								</div>
 							</div>
